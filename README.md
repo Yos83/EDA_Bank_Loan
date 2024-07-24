@@ -1,4 +1,4 @@
-### Adanced Exploratory Analysis on Bank Loans 
+### Advanced Exploratory Analysis on Bank Loans 
 
 #### Summary of Findings
 
