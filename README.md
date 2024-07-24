@@ -1,5 +1,4 @@
 # Prosper Loan Data Analysis
-## Yosmery Gonzalez
 
 ## Summary of Findings
 
