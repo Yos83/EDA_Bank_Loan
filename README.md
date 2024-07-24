@@ -1,6 +1,19 @@
 ### Advanced Exploratory Analysis on Bank Loans 
 
-#### Summary of Findings
+The main purpose of this project is to analyse the factors that contribute to changes on the borrower Annual Percentage Rate (APR) for a loan. After a comprenhensive exploratory analysis, the selected variables to be invistaged are ProsperScore, ProsperRating (Alpha), LoanStatus and loan amount. Python visualization libraries are used to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables and producing a summary highlights showing trends and relationships discovered in the Loan Data from Prosper. The Jupyter Notebook is coverted into an HTML slideshow presentation.
+
+Questions to be explored:
+What factors affect a loan’s outcome status?. The variables to be considerred are as follows.
+Employment status
+IncomeRange
+Prosper Score
+Home owner status
+Borrower State
+What affects the borrower’s APR or interest rate?
+Loan original amount
+Listing Category
+
+##### Summary of Findings
 
 It seems the main variables impacting Borrower APR are ProsperScore and ProsperRating with a negative correlation. ProsperScore seems to increase when BorrowerRate decrease.
 
@@ -14,7 +27,7 @@ In the exploration stage, I found the following relevant inights:
 - It seems the borrower APR increases when borrowers are retired and self-employed. It also increase when borrowers do not own their home
 - It seems that most of the defaulted credits comes from individuals with low Prosper ratings
 
-#### Key Insights for Presentation
+##### Key Insights for Presentation
 
 Based on the visual analysis and answering the question posted in the introduction  it is concluded that:
 
