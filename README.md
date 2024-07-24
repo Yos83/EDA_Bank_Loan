@@ -1,6 +1,6 @@
-# Prosper Loan Data Analysis
+### Adanced Exploratory Analysis on Bank Loans 
 
-## Summary of Findings
+#### Summary of Findings
 
 It seems the main variables impacting Borrower APR are ProsperScore and ProsperRating with a negative correlation. ProsperScore seems to increase when BorrowerRate decrease.
 
@@ -14,8 +14,7 @@ In the exploration stage, I found the following relevant inights:
 - It seems the borrower APR increases when borrowers are retired and self-employed. It also increase when borrowers do not own their home
 - It seems that most of the defaulted credits comes from individuals with low Prosper ratings
 
-
-## Key Insights for Presentation
+#### Key Insights for Presentation
 
 Based on the visual analysis and answering the question posted in the introduction  it is concluded that:
 
